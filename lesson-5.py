@@ -39,7 +39,7 @@ for [eng, rus] in numbers:
 with open("task-4.txt", "w", encoding="utf_8") as out_file:
     out_file.write(alltext)
 
-    # task 5
+# task 5
 import random
 
 random.random()
